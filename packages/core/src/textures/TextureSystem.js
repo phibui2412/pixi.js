@@ -249,7 +249,7 @@ export default class TextureSystem extends System
         }
         // that's WebGL1 HALF_FLOAT_OES
         // we have to convert it to WebGL HALF_FLOAT
-        if (texture.type === TYPES.FLOAT)
+        if (texture.type === TYPES.HALF_FLOAT)
         {
             glTexture.type = gl.HALF_FLOAT;
         }

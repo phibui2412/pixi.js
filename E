@@ -1,12 +1,4 @@
-# Title: hostsVN
-# Last modified: 07 Jun 2019
-# Please report any ads or problems by github
-# Home: https://bigdargon.github.io/hostsVN/
-# Github: https://github.com/bigdargon/hostsVN/
-# Report issues: https://github.com/bigdargon/hostsVN/issues
-# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
-#
-# =====================================================
+
 
 # BEGIN hostsVN ---
 # --- Group block ---
